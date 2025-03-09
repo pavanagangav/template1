@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+
+background: #f0ecec;
+
+height: 52px;
+}
+.nav{
+
+display: flex;
+
+/* margin-top: 3px; */
+}
+.nav i{
+
+margin-left: 136px;
+
+margin-top: 18px;
+
+margin-right: 3px;
+}
+.nav h3{
+
+margin-right: 522px;
+
+margin-top: 17px;
+
+font-size: 17px;
+}
+.nav a{
+    
+text-decoration: none;
+    
+margin-right: 36px;
+    
+margin-left: 19px;
+    
+margin-top: 18px;
+    
+color: #444242;
+    
+font-size: 16px;
+}
+.bg_img{
+    background-image: url(assests/bgimg.png);
+    height: 591px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    
+margin-top: 83px;
+    
+margin-left: 158px;
+    
+padding: 2px 24px 8px;
+}
+.head h1{
+
+font-size: 48px;
+}
+.head h3{
+
+font-size: 23px;
+}
+.btn{
+
+margin-left: 178px;
+
+margin-top: 13px;
+}
+.btn button{
+
+box-shadow: 2px solid violet;
+
+border: 0px;
+
+color: white;
+
+background: #790a79;
+
+border-radius: 28px;
+
+padding: 9px 18px 7px;
+
+box-shadow: 5px 5px 24px violet;
+
+/* margin-right: 14px; */
+}
+.btn i{
+    
+margin-left: 9px;
+}
+.bit{
+   background: gold;
+   float: right;
+   border-radius: 132px;
+   margin-right: 268px;
+}
+.bit img{
+    
+border-radius: 289px;
+    
+height: 265px;
+}
+.icons{
+
+margin-left: 179px;
+
+margin-top: 25px;
+}
+.icons i{
+    
+margin-right: 10px;
+    
+background: rgb(3 151 248);
+    
+color: black;
+    
+font-size: 24px;
+    
+border-radius: 24px;
+    
+border: 5px solid;
+}
+.bit2{
+
+margin-top: 143px;
+
+margin-left: 38px;
+}
+.bit2 img{
+    border-radius: 289px;
+    height: 89px;
+    position: absolute;
+    background: #09b3f8;
+}
+.bit2 i{
+        margin-top: 6px;
+        background: #cb0606;
+        color: white;
+        height: 22px;
+        width: 23px;
+        border-radius: 17px;
+        margin-left: 65px;
+        text-align: center;
+        font-size: 15px;
+        position: relative;
+        padding: 1px;
+}
+.one{
+
+/* position: relative; */
+
+margin-left: 71px;
+
+/* margin-bottom: 18px; */
+}
+.one i{
+    
+/* position: absolute; */
+
+}
